@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @Eblali
+- 👋 Hi, I’m @Eblali
 - 👀 I’m interested in AI, and IT automation.
 - 🌱 I’m currently learning IT automation and web development.
 - 💞️ I’m looking to collaborate on open-source projects as I can.
