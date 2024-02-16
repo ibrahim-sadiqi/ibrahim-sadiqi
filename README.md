@@ -37,7 +37,7 @@ Feel free to explore my repositories for more!
 
 Let's connect! Feel free to reach out:
 
-- [LinkedIn]linkedin.com/in/ebrahim-sadiqi-ba79632b2
+- [Ebrahim](https://linkedin.com/in/ebrahim-sadiqi-ba79632b2)
 
 
 ## Thank You for Visiting!
