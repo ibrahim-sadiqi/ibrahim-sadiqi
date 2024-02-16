@@ -8,7 +8,7 @@ I'm enthusiastic about software engineering special AI and automation, and I lov
 
 - 🌱 I’m currently learning IT automation and AI.
 - 💬 Ask me about python.
-- 📫 How to reach me: eblali@2023@gmail.com.
+- 📫 How to reach me: eblali2023@gmail.com.
 
 ## Skills
 
@@ -24,7 +24,7 @@ I enjoy working on various projects that showcase my skills and interests. Here 
 
 1. Q AntiVirus: Scan files and Url both online and offline.
 2. NotePad: A simple text editor.
-3. [Project 3 Name](Link to Project): Short description.
+
    
 Feel free to explore my repositories for more!
 
