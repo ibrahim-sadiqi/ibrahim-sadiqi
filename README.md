@@ -1,37 +1,33 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location]. Welcome to my GitHub profile!
+I'm Ibrahim Lali, a passionate software engineering from Afganistan. Welcome to my GitHub profile!
 
 ## About Me
 
-I'm enthusiastic about [Your Interests or Field of Expertise], and I love to explore new technologies and contribute to exciting projects. I have a background in [Your Educational or Professional Background], and my journey in the tech world has been a continuous learning adventure.
+I'm enthusiastic about software engineering special AI and automation, and I love to explore new technologies and contribute to exciting projects. I have a background in developed some projects with python, and my journey in the tech world has been a continuous learning adventure.
 
-- 🌱 I’m currently learning [Current Learning Focus].
-- 💬 Ask me about [Your Areas of Expertise].
-- 📫 How to reach me: [Your Email or Social Media Links].
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him, She/Her].
+- 🌱 I’m currently learning IT automation and AI.
+- 💬 Ask me about python.
+- 📫 How to reach me: eblali@2023@gmail.com.
 
 ## Skills
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** [List of Programming Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Tools & Platforms:** [List of Tools and Platforms]
+- **Programming Languages:** Python, Java, Shell Script.
+- **Frameworks & Libraries:** Django, Bootstrap, Numpy, Pandas.
+- **Tools & Platforms:** PyQt6
 
 ## Projects
 
 I enjoy working on various projects that showcase my skills and interests. Here are a few highlights:
 
-1. [Project 1 Name](Link to Project): Short description.
-2. [Project 2 Name](Link to Project): Short description.
+1. Q AntiVirus: Scan files and Url both online and offline.
+2. NotePad: A simple text editor.
 3. [Project 3 Name](Link to Project): Short description.
-
+   
 Feel free to explore my repositories for more!
 
-## Blog
-
-I also write about my experiences and share my insights on my [Blog](Link to Blog), covering topics such as [Themes/Topics You Write About].
 
 ## GitHub Stats
 
@@ -41,8 +37,8 @@ I also write about my experiences and share my insights on my [Blog](Link to Blo
 
 Let's connect! Feel free to reach out:
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
+- [LinkedIn](linkedin.com/in/ebrahim-sadiqi-ba79632b2)
+
 
 ## Thank You for Visiting!
 
