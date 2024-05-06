@@ -8,7 +8,7 @@ I'm enthusiastic about software engineering special AI and automation, and I lov
 
 - 🌱 I’m currently learning IT automation and AI.
 - 💬 Ask me about python.
-- 📫 How to reach me: eblali2023@gmail.com.
+- 📫 How to reach me: 
 
 ## Skills
 
