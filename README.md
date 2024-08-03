@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ibrahim Lali, a passionate software engineering from Afganistan. Welcome to my GitHub profile!
+I'm Ibrahim Sadiqi, a passionate software engineering from Afganistan. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -15,8 +15,8 @@ I'm enthusiastic about software engineering special AI and automation, and I lov
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** Python, Java, Shell Script.
-- **Frameworks & Libraries:** Django, Bootstrap, Numpy, Pandas.
-- **Tools & Platforms:** PyQt6
+- **Frameworks & Libraries:** Django, Bootstrap, Numpy, Pandas, PyQt6.
+- **Tools & Platforms:** Qt Designer, AWS.
 
 ## Projects
 
