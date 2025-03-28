@@ -14,9 +14,7 @@ I'm enthusiastic about software engineering special AI and automation, and I lov
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Python, Java, Shell Script.
-- **Frameworks & Libraries:** Django, Bootstrap, Numpy, Pandas, PyQt6.
-- **Tools & Platforms:** Qt Designer, AWS.
+- **Programming Languages:** Python, Java, Shell Script, JavaScript.
 
 ## Projects
 
@@ -37,7 +35,7 @@ Feel free to explore my repositories for more!
 
 Let's connect! Feel free to reach out:
 
-- [Ebrahim](https://linkedin.com/in/ebrahim-sadiqi-ba79632b2)
+- [Ibrahim](https://linkedin.com/in/ibrahim-sadiqi)
 
 
 ## Thank You for Visiting!
